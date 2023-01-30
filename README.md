@@ -1,4 +1,4 @@
-# devanshshuklaproject.io
+# Job Dashboard
 This is the project of making a Job Portal Dashboard using html css and php, with the use of XAMPP server this project is made. In this project the users can post job requirements and apply for various jobs as listed by an employer, there are two pages dedicated for the user for logging in with credentials and then performing actions as required by the user that is to apply for a job there is a page for registration then login page. For the employer there is registration for the employer and the applicant on the same page to provide easiness in the registration process. After that the employer is able to access the dashboard to observe the applicants and select them accordingly, there is also a section for the employer users to add a new job category and the task for the job with Job Description. In the backend we created a database inside the server going through PHP myadmin in the XAMP by going to the localhost/phpmyAdmin and also created tables in it using MySQL editor inside it. In this way a fully functional job hiring applying dashboard was made.
 
 
